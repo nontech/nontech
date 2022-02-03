@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mukesh (@nontech) from Berlin, Germany.
 - 👀 I’m interested in Elixir, GraphQL (Absinthe) & Blockchain (https://www.near.university/).
 - 🌱 I’m currently learning Elixir, GraphQL (Absinthe) & Blockchain (https://www.near.university/).
-- 💞️ I’m looking to collaborate on side hustles (like on https://www.indiehackers.com/) to make money.
+- 💞️ I’m looking to collaborate on side hustles (like on https://www.indiehackers.com/) to create useful applications.
 - 📫 How to reach me - mukesh.jaiswal@code.berlin
 
 <!---
