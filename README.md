@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Mukesh (@nontech) from Berlin, Germany.
-- 👀 I’m interested in Elixir, GraphQL (Absinthe).
-- 🌱 I’m currently learning Elixir, GraphQL (Absinthe), Java & Kotlin.
-- 💞️ I’m looking to collaborate on side hustles (like on https://www.indiehackers.com/) to create useful applications.
-- 📫 How to reach me - mukesh.jaiswal@code.berlin
+- 👋 Hi, I’m Mukesh from Berlin, Germany.
+- 👀 I code in Python, Elixir, & JavaScript.
+- 🌱 I’m currently learning Django by building an interactive web tool for teachers that will allow them to create custom Python exercises for their students called [Project Luna](https://github.com/nontech/luna).
+- 💞️ My goal is to ship 5 side projects by 2024. Inspired by the amazing [Marc Lou](https://marclou.com/).
 
 <!---
 nontech/nontech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
