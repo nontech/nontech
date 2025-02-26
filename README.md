@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Mukesh from Berlin, Germany.
-- 👀 I code in Python, Elixir, & JavaScript.
-- 🌱 I’m currently learning Django by building an interactive web tool for teachers that will allow them to create custom Python exercises for their students called [Project Luna](https://github.com/nontech/luna).
-- 💞️ My goal is to ship 5 side projects by 2024. Inspired by the amazing [Marc Lou](https://marclou.com/).
+- 👋 Hi, I’m Mukesh from Nepal, currently living in Berlin, Germany.
+- 👀 I code in Python, Elixir, & JavaScript (with Typescript).
+- My current tech stack: Nextjs, React Native, Svelte & Supabase
+- 🌱 As part of my graduation project, I built [Project Luna](https://github.com/nontech/luna).
+- 💞️ My goal is to ship 2 side projects every month by 2025. Inspired by the amazing [Marc Lou](https://marclou.com/).
+
+Monthly Projects
+- January: [Project Luna](https://github.com/nontech/luna) & [Urban Eats Club](https://github.com/nontech/uec_app)
+- February: [Quell](https://github.com/nontech/quell) &
 
 <!---
 nontech/nontech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
